@@ -1,0 +1,56 @@
+body{
+    background-color: #ffffff;
+    background-image:url("c.jpg");
+
+}
+button{
+    border-radius: 35px;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 10px;
+    padding:20px;
+    font-size: 20px;
+
+}
+.heading
+{
+    background-color: rgb(213, 235, 122);
+    text-align: center;
+    color:crimson;
+    font-size: 20px;
+    padding: 20px;
+    width:fit-content;
+    
+
+}
+.f1
+{
+  align-items: center;
+  text-align: center;
+  left:35%;
+  top:15%;
+  position: absolute;
+  
+}
+.f2
+{
+    margin-top: 100px;
+
+
+
+}
+#input
+{
+    font-size:20px;
+    padding:10px;
+    
+}
+#result
+{
+    font-size: 50px;
+    color: chocolate;
+}
+#temp
+{
+    padding:10px;
+}
